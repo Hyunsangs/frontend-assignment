@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/frontend-assignment.git/static/js/main.c86bcb13.js",
+    "main.js": "/frontend-assignment.git/static/js/main.a4a4d758.js",
     "index.html": "/frontend-assignment.git/index.html",
-    "main.c86bcb13.js.map": "/frontend-assignment.git/static/js/main.c86bcb13.js.map"
+    "main.a4a4d758.js.map": "/frontend-assignment.git/static/js/main.a4a4d758.js.map"
   },
   "entrypoints": [
-    "static/js/main.c86bcb13.js"
+    "static/js/main.a4a4d758.js"
   ]
 }
